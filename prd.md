@@ -1,10 +1,10 @@
 SOFTWARE ENGINEERING
 GROUP B, BU COS 209
 GROUP 6
-BABCOCK RIDE (BU-KEKS)
+BABCOCK KEKE (BU-KEKS)
 1. Product Overview
 
-The product is Babcock Ride. It is a campus web application that connects Babcock University students with tricycle (Keke) drivers on campus so students can easily see available Kekes and book rides, while drivers can see where students are waiting.
+The product is Babcock Keke's. It is a campus web application that connects Babcock University students with tricycle (Keke) drivers on campus so students can easily see available Kekes and book rides, while drivers can see where students are waiting.
 
 2. Problem Statement
 
